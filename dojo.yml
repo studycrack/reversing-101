@@ -1,6 +1,6 @@
-name: Hacking 101
+name: Reversing 101
 type: welcome
-id: hacking-101
+id: reversing-101
 image: pwncollege/challenge-legacy:latest
 award:
   emoji: 💻
