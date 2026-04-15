@@ -10,3 +10,4 @@ modules:
 # - id: pwntools
 - id: memory
 #- id: binary-exploitation
+- id: reverse-engineering
