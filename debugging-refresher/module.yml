@@ -17,10 +17,10 @@ challenges:
 #- id: level-8
 #  name: level8
 resources:
-- name: Robert's GDB Walkthrough
-  type: lecture
-  video: r185fCzdw8Y
-  playlist: PL-ymxv0nOtqqQzEncNuE6jetlJAiBUda-
+#- name: Robert's GDB Walkthrough
+#  type: lecture
+#  video: r185fCzdw8Y
+#  playlist: PL-ymxv0nOtqqQzEncNuE6jetlJAiBUda-
 - name: GDB Help
   type: markdown
   content: |
