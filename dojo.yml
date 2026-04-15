@@ -7,6 +7,6 @@ award:
 modules:
 - id: assembly-crash-course
 - id: debugging-refresher
-- id: pwntools
+# - id: pwntools
 - id: memory
-- id: binary-exploitation
+#- id: binary-exploitation
