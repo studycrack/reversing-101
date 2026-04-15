@@ -9,5 +9,5 @@ modules:
 - id: debugging-refresher
 # - id: pwntools
 - id: memory
-#- id: binary-exploitation
 - id: reverse-engineering
+#- id: binary-exploitation
